@@ -3,6 +3,8 @@
 ## Project Overview
 This project features a comprehensive Power BI dashboard designed to track and analyze key performance indicators (KPIs) within the hospitality domain. The dashboard provides actionable insights into revenue generation, capacity utilization, and booking trends to help stakeholders make data-driven decisions.
 
+[Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNTNkZWJjYWItYjY5OS00MWE0LWFjMzItYjk5ZDUxYTdmMzA2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## Key Metrics Tracked
 * **Revenue & RevPAR:** Monitoring overall revenue (1.69bn) and Revenue Per Available Room (7,337).
 * **Occupancy & ADR:** Tracking the percentage of successful bookings (57.8%) and Average Daily Rate (12.70K).
